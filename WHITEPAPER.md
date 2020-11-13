@@ -12,7 +12,7 @@ SparkPoint Decentralized Finance platform.
   * [DeFi Assets Protocols Aggregation](#defi-assets-protocols-aggregation)
 * [Market Opportunities](#market-opportunities)
   * 1.1 [The Rise of DeFi](#the-rise-of-defi)
-  * 1.2 NFT’s growing popularity
+  * 1.2 [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
   * 1.3 Decentralized Exchanges
   * 1.4 P2P Lending and Borrowing
 * Problems
@@ -95,7 +95,7 @@ The P2P lending platforms have provided individual investors with a new asset in
 
 Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
 
-In SparkDeFi, it is allowed to use altcoins and Non-fungible Tokens (NFTs) or cryptocollectibles such as game items, virtual estate, and digital artworks as collateral. The platform enables microlending for the purpose of democratizing finance and promoting financial inclusion. This ensures the client to consistently generate a stream of cash flow through the liquidity savings pool.
+In SparkDeFi, it is allowed to use altcoins and Non-fungible Tokens (NFTs) or cryptocollectibles such as game items, virtual estate, and digital artworks as collateral. The platform enables microlending for the purpose of democratizing finance and promoting financial inclusion. This ensures the client to consistently generate a stream of cash flow through the liquidity savings pool. Read the [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why we're supporting NFTs.
 
 While Decentralized Finance may have spouted a new system for finance management, DeFi also established a system of money lending and borrowing, with a ton of upside packaged into the deal.
 
@@ -109,13 +109,7 @@ Similarly, the DeFi-jointed loan-borrow structure gives greater access to capita
 
 Unlike the prevalent traditional system in place, the DeFi’s way of loaning relies on the market-driven sphere of the consumers. Operating on the dogma of transparency and market opinion, the investors of the said DeFi institutions have the final say whether a start-up business is worthy of receiving funding. In this regard, the progressive orientation of lending and borrowing outright challenges the quo of traditional institutions to provide financial aide.
 
-What is interesting about Non-Fungible Tokens (NFTs) is that it is a new breed of FinTech (Financial Technology) also seeking to transform the current state of traditional finance systems. NFTs have all the characteristics of the other cryptocurrencies, e.g. Bitcoin Etherium, Dogecoin, with one distinct feature—its unique identification. This stark attribute prevents the token to be interchanged with an identical one. This, in return, creates an effect of scarcity and digital ownership.
 
-Likewise, the said token is ERC-721 compliant. This outlines that every token birthed by the crypto is said to be entirely unique. To exemplify, it can be likened to a one-of-a-kind collectible memorabilia.
-
-Compared to the regular ERC-20 compliant cryptos, NFTs, with their ERC-721 compliance, could pave the way for acquiring significant assets through tokenization. Moreover, the ERC-721 label allows users to trade in market exchanges.
-
-Just to give NFTs a little background: it all started with the rise of CryptoKitties, a blockchain game developed by Axion Zen on Ethereum. The hype developed a substantial following, and at one point, even reached a skyrocketing $100,000 for a single digital feline collectible item. However, with the recent developments, NFTs have become more than just a feline gaming currency. It has become more diverse. And with the integration of Kakao into the said crypto-token, we could only theorize what could be the future of NFTs. If anything else, the bright history of the NFT is an indication of what it could be, if it is to be further expanded in the near future.
 
 ### DeFi Assets Protocols Aggregation
 
@@ -134,3 +128,13 @@ The protocol “Pamp Network” is a price-reactive cryptocurrency. Price-reacti
 ### The Rise of DeFi
 
 Powered by lending and borrowing, derivatives, staking or yield farming etc.
+
+### The Growing Popularity of NFTs
+
+What is interesting about Non-Fungible Tokens (NFTs) is that it is a new breed of FinTech (Financial Technology) also seeking to transform the current state of traditional finance systems. NFTs have all the characteristics of the other cryptocurrencies, e.g. Bitcoin Etherium, Dogecoin, with one distinct feature—its unique identification. This stark attribute prevents the token to be interchanged with an identical one. This, in return, creates an effect of scarcity and digital ownership.
+
+Likewise, the said token is ERC-721 compliant. This outlines that every token birthed by the crypto is said to be entirely unique. To exemplify, it can be likened to a one-of-a-kind collectible memorabilia.
+
+Compared to the regular ERC-20 compliant cryptos, NFTs, with their ERC-721 compliance, could pave the way for acquiring significant assets through tokenization. Moreover, the ERC-721 label allows users to trade in market exchanges.
+
+Just to give NFTs a little background: it all started with the rise of CryptoKitties, a blockchain game developed by Axion Zen on Ethereum. The hype developed a substantial following, and at one point, even reached a skyrocketing $100,000 for a single digital feline collectible item. However, with the recent developments, NFTs have become more than just a feline gaming currency. It has become more diverse. And with the integration of Kakao into the said crypto-token, we could only theorize what could be the future of NFTs. If anything else, the bright history of the NFT is an indication of what it could be, if it is to be further expanded in the near future.
