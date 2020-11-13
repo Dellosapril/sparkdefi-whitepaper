@@ -6,12 +6,12 @@ SparkPoint Decentralized Finance platform.
 
 * [Introduction](#introduction)
 * [SparkDeFi](#sparkdefi)
-  * [Decentralized Exchange (DEX)](#decentralized-exchange-dex)
-  * [Multi-Staking](#multi-staking)
-    * [Liquidity Staking](#1-liquidity-staking)
-    * [Pool-Based Staking](#2-pool-based-staking)
-  * [P2P Lending](#p2p-lending)
-  * [DeFi Assets Protocols Aggregation](#defi-assets-protocols-aggregation)
+  * [Decentralized Exchange (DEX)](#1-decentralized-exchange-dex)
+  * [Multi-Staking](#2-multi-staking)
+    * [Liquidity Staking](#a-liquidity-staking)
+    * [Pool-Based Staking](#b-pool-based-staking)
+  * [P2P Lending](#3-p2p-lending)
+  * [DeFi Assets Protocols Aggregation](#4-defi-assets-protocols-aggregation)
 * [Market Opportunities](#market-opportunities)
   * 1.1 [The Rise of DeFi](#the-rise-of-defi)
   * 1.2 [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
@@ -53,13 +53,13 @@ SparkDeFi is a governance token-based DeFi platform that empowers individuals to
 
 The SFuel token is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. This SFuel will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFuel holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
 
-### Decentralized Exchange (DEX)
+### 1. Decentralized Exchange (DEX)
 
 The company refers to this as “Spark Swap.” It is a one-stop shop “DeFi” experience. Every transaction can provide collection increase for the client through the earnings in transaction fee. There is also a fast swap of multiple cryptocurrencies in a transparent and decentralized manner.
 
-### Multi-Staking
+### 2. Multi-Staking
 
-#### 1. Liquidity Staking
+#### A. Liquidity Staking
 
 Many experts viewed staking as the easiest way of earning money with cryptocurrencies. That is why it is unquestionable that its renounces' subsequent name creates a name in cryptocurrency mining and trading. It allows purchasing and permits you to hold cryptocurrency that guarantees profits and rewards.
 
@@ -71,7 +71,7 @@ Liquidity is essential for a market because large traders cannot enter the marke
 
 Liquid staking allows users to access their locked capital still while maintaining their staking rewards. The reward from liquidity staking should not be claimed daily as it will reset how many days it has been staked. But if the user really wants to claim it, he can withdraw it whenever he wants. The protocol takes two days before the claim and liquidity can be asserted and removed. Liquid staking solves escrow, the un-bonding period, and the un-bonding period.
 
-#### 2. Pool-Based Staking
+#### B. Pool-Based Staking
 
 In the platform of SparkDeFi, the client is encouraged to participate in the SRK-ETH and SFUEL-ETH liquidity staking pools and earn SRK or SFUEL, a SparkDefi governance token. By participating, the client can stake SRK tokens or SFuel in the regular pool-based staking and collect SRK or SFUEL rewards on a regular basis.
 
@@ -85,7 +85,7 @@ Working or staking your coins alone would not help your stake grow. If a block r
 
 On the other hand, if you genuinely understand the staking pool and consistently take a part of it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means you are more exposed to earning and increasing your profit.
 
-### P2P Lending
+### 3. P2P Lending
 
 By 2022, the global peer-to-peer lending market is estimated to increase by almost 52% per year, reaching the US $460 billion in value. This is according to the 2017 report of Allied Market Research.
 
@@ -119,9 +119,7 @@ Similarly, the DeFi-jointed loan-borrow structure gives greater access to capita
 
 Unlike the prevalent traditional system in place, the DeFi’s way of loaning relies on the market-driven sphere of the consumers. Operating on the dogma of transparency and market opinion, the investors of the said DeFi institutions have the final say whether a start-up business is worthy of receiving funding. In this regard, the progressive orientation of lending and borrowing outright challenges the quo of traditional institutions to provide financial aide.
 
-
-
-### DeFi Assets Protocols Aggregation
+### 4. DeFi Assets Protocols Aggregation
 
 The client of SparkDeFi can seamlessly access and connect to various DeFi projects for an end-to-end DeFi experience. Furthermore, the client can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
 
