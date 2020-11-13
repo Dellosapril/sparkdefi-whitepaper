@@ -5,6 +5,7 @@ SparkPoint Decentralized Finance platform.
 ## Table of Contents
 
 * [Introduction](#introduction)
+* [SparkDeFi Platforms](#sparkdefi-platforms)
   * [Decentralized Exchange (DEX)](#decentralized-exchange-dex)
   * [Multi-Staking](#multi-staking)
   * [P2P Lending](#p2p-lending)
@@ -43,6 +44,8 @@ Another definition of Decentralized Finance is that it is a type of futuristic e
 Considered by financial experts as innovative, DeFi likewise seek to further consolidate the financial products and services offered by centralized banking authorities to the people seamlessly.
 
 Dubbed as the future of the global economy, here are some of the revolutionary concepts forwarded by DeFi that would, for sure, capitulate the world of finance management into new heights. In this case, the emerging technologies spouted by the advancements of humanity supports the entirety of operations of DeFi.
+
+## SparkDeFi Platforms
 
 ### Decentralized Exchange (DEX)
 
