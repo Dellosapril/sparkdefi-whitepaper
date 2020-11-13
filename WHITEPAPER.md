@@ -6,7 +6,7 @@ SparkPoint Decentralized Finance platform.
 
 * [Introduction](#introduction)
 * [SparkDeFi](#sparkdefi)
-  * [Decentralized Exchange (DEX)](#1-decentralized-exchange-dex)
+  * [SparkSwap Decentralized Exchange (DEX)](#1-sparkswap-decentralized-exchange-dex)
   * [Multi-Staking](#2-multi-staking)
     * [Liquidity Staking](#a-liquidity-staking)
     * [Pool-Based Staking](#b-pool-based-staking)
@@ -54,7 +54,7 @@ SparkDeFi is a governance token-based DeFi platform that empowers individuals to
 
 The SFuel token is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. This SFuel will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFuel holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
 
-### 1. Decentralized Exchange (DEX)
+### 1. SparkSwap Decentralized Exchange (DEX)
 
 The company refers to this as “Spark Swap.” It is a one-stop shop “DeFi” experience. Every transaction can provide collection increase for the client through the earnings in transaction fee. There is also a fast swap of multiple cryptocurrencies in a transparent and decentralized manner.
 
@@ -133,6 +133,8 @@ In addition, the protocol aims to introduce a novel incentive structure that pro
 The protocol “Pamp Network” is a price-reactive cryptocurrency. Price-reactivity is an important feature because it creates adequate supply to react to demand spikes as the result of large amounts of liquidity entering or exiting the system. This should lower volatility in the short-term, which allows for the currency to act as a store-of-value in the long term.
 
 ### 5. Decentralized Governance
+
+Governance of SparkDeFi will be delegated to SFUEL holders. DAO members are responsible for the direction of the protocol via systematic voting.
 
 ## Market Opportunities
 
