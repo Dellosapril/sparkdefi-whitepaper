@@ -5,10 +5,10 @@ SparkPoint Decentralized Finance platform.
 ## Table of Contents
 
 * [Introduction](#introduction)
-  * Decentralized Exchange (DEX)
-  * Multi-Staking
-  * P2P Lending
-  * DeFi Assets Protocols Aggregation
+  * [Decentralized Exchange (DEX)](#decentralized-exchange-dex)
+  * [Multi-Staking](#multi-staking)
+  * [P2P Lending](#p2p-lending)
+  * [DeFi Assets Protocols Aggregation](#defi-assets-protocols-aggregation)
 * Market Opportunities
   * 1.1 The rise of DeFi powered by lending and borrowing, derivatives, staking or yield farming etc.,,
   * 1.2 NFT’s growing popularity
