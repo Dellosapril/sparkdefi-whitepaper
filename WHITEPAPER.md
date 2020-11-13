@@ -10,8 +10,9 @@ SparkPoint Decentralized Finance platform.
   * [Multi-Staking](#2-multi-staking)
     * [Liquidity Staking](#a-liquidity-staking)
     * [Pool-Based Staking](#b-pool-based-staking)
-  * [P2P Lending](#3-p2p-lending)
-  * [DeFi Assets Protocols Aggregation](#4-defi-assets-protocols-aggregation)
+  * [P2P Lending and Borrowing](#3-p2p-lending-and-borrowing)
+  * [DeFi Assets Protocols Management](#4-defi-assets-protocols-management)
+  * [Decentralized Governance](#5-decentralized-governance)
 * [Market Opportunities](#market-opportunities)
   * 1.1 [The Rise of DeFi](#the-rise-of-defi)
   * 1.2 [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
@@ -85,7 +86,7 @@ Working or staking your coins alone would not help your stake grow. If a block r
 
 On the other hand, if you genuinely understand the staking pool and consistently take a part of it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means you are more exposed to earning and increasing your profit.
 
-### 3. P2P Lending
+### 3. P2P Lending and Borrowing
 
 By 2022, the global peer-to-peer lending market is estimated to increase by almost 52% per year, reaching the US $460 billion in value. This is according to the 2017 report of Allied Market Research.
 
@@ -119,7 +120,7 @@ Similarly, the DeFi-jointed loan-borrow structure gives greater access to capita
 
 Unlike the prevalent traditional system in place, the DeFi’s way of loaning relies on the market-driven sphere of the consumers. Operating on the dogma of transparency and market opinion, the investors of the said DeFi institutions have the final say whether a start-up business is worthy of receiving funding. In this regard, the progressive orientation of lending and borrowing outright challenges the quo of traditional institutions to provide financial aide.
 
-### 4. DeFi Assets Protocols Aggregation
+### 4. DeFi Assets Protocols Management
 
 The client of SparkDeFi can seamlessly access and connect to various DeFi projects for an end-to-end DeFi experience. Furthermore, the client can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
 
@@ -130,6 +131,8 @@ Applications in crypto currency or block chain technology towards disrupting fin
 In addition, the protocol aims to introduce a novel incentive structure that promotes holding the token and providing liquidity on exchanges.
 
 The protocol “Pamp Network” is a price-reactive cryptocurrency. Price-reactivity is an important feature because it creates adequate supply to react to demand spikes as the result of large amounts of liquidity entering or exiting the system. This should lower volatility in the short-term, which allows for the currency to act as a store-of-value in the long term.
+
+### 5. Decentralized Governance
 
 ## Market Opportunities
 
