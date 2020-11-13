@@ -9,8 +9,8 @@ SparkPoint Decentralized Finance platform.
   * [Multi-Staking](#multi-staking)
   * [P2P Lending](#p2p-lending)
   * [DeFi Assets Protocols Aggregation](#defi-assets-protocols-aggregation)
-* Market Opportunities
-  * 1.1 The rise of DeFi powered by lending and borrowing, derivatives, staking or yield farming etc.,,
+* [Market Opportunities](#market-opportunities)
+  * 1.1 [The Rise of DeFi](#the-rise-of-defi)
   * 1.2 NFT’s growing popularity
   * 1.3 Decentralized Exchanges
   * 1.4 P2P Lending and Borrowing
@@ -125,3 +125,9 @@ Applications in crypto currency or block chain technology towards disrupting fin
 In addition, the protocol aims to introduce a novel incentive structure that promotes holding the token and providing liquidity on exchanges.
 
 The protocol “Pamp Network” is a price-reactive cryptocurrency. Price-reactivity is an important feature because it creates adequate supply to react to demand spikes as the result of large amounts of liquidity entering or exiting the system. This should lower volatility in the short-term, which allows for the currency to act as a store-of-value in the long term.
+
+## Market Opportunities
+
+### The Rise of DeFi
+
+Powered by lending and borrowing, derivatives, staking or yield farming etc.
