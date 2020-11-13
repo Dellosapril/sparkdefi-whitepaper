@@ -8,6 +8,8 @@ SparkPoint Decentralized Finance platform.
 * [SparkDeFi Platforms](#sparkdefi-platforms)
   * [Decentralized Exchange (DEX)](#decentralized-exchange-dex)
   * [Multi-Staking](#multi-staking)
+    * [Liquidity Staking](#liquidity-staking)
+    * [Pool-Based Staking](#pool-based-staking)
   * [P2P Lending](#p2p-lending)
   * [DeFi Assets Protocols Aggregation](#defi-assets-protocols-aggregation)
 * [Market Opportunities](#market-opportunities)
@@ -53,6 +55,8 @@ The company refers to this as “Spark Swap.” It is a one-stop shop “DeFi”
 
 ### Multi-Staking
 
+#### Liquidity Staking
+
 Many experts viewed staking as the easiest way of earning money with cryptocurrencies. That is why it is unquestionable that its renounces' subsequent name creates a name in cryptocurrency mining and trading. It allows purchasing and permits you to hold cryptocurrency that guarantees profits and rewards.
 
 Participants in crypto mining who were in demand of earning profits yet possess dearth in high input cost, straightway entrusted in staking. Necessarily, the changes brought by cryptocurrency was adapted and practiced in this modern world. It illustrated and exposed borderless distributions of a blockchain product. Regarding this, is the occurrence of POS or Proof of Stake coins that you can earn without having the POW or Proof of Work.
@@ -74,6 +78,8 @@ Working or staking your coins alone would not help your stake grow. If a block r
 On the other hand, if you genuinely understand the staking pool and consistently take a part of it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means you are more exposed to earning and increasing your profit.
 
 In the platform of SparkDeFi, the client is encouraged to participate in the SRK-ETH and SFUEL-ETH liquidity staking pools and earn SRK or SFUEL, a SparkDefi governance token. By participating, the client can stake SRK tokens or SFuel in the regular pool-based staking and collect SRK or SFUEL rewards on a regular basis.
+
+#### Pool-Based Staking
 
 ### P2P Lending
 
