@@ -16,8 +16,8 @@ SparkPoint Decentralized Finance platform.
 * [Market Opportunities](#market-opportunities)
   * 1.1 [The Rise of DeFi](#the-rise-of-defi)
   * 1.2 [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
-  * 1.3 Decentralized Exchanges
-  * 1.4 P2P Lending and Borrowing
+  * 1.3 [Decentralized Exchanges](#decentralized-exchanges)
+  * 1.4 [P2P Lending and Borrowing](#p2p-lending-and-borrowing)
 * Problems
   * 1.1 Lack of Interoperability
   * 1.2 Non-inclusive approach to P2P Lending
@@ -60,6 +60,8 @@ The SFuel token is SparkDeFi’s governance token with a total supply of 150,000
 
 The company refers to this as “Spark Swap.” It is a one-stop shop “DeFi” experience. Every transaction can provide collection increase for the client through the earnings in transaction fee. There is also a fast swap of multiple cryptocurrencies in a transparent and decentralized manner.
 
+Our own Decentralized Exchange (DEX) for a “one-stop-shop” DeFi experience. Instantly swap multiple cryptocurrencies in a trustless and decentralized manner. Earn from the transaction fees when you provide liquidity.
+
 ### 2. Multi-Staking
 
 #### A. Liquidity Staking
@@ -89,24 +91,6 @@ Working or staking your coins alone would not help your stake grow. If a block r
 On the other hand, if you genuinely understand the staking pool and consistently take a part of it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means you are more exposed to earning and increasing your profit.
 
 ### 3. P2P Lending and Borrowing
-
-By 2022, the global peer-to-peer lending market is estimated to increase by almost 52% per year, reaching the US $460 billion in value. This is according to the 2017 report of Allied Market Research.
-
-One of the advantages of peer-to-peer or “P2P” is that its financing may be obtained from many different investors or lenders ranging from individuals to institutional investors.
-
-The P2P is beneficial because of the low cost in technology. The platform uses such technology in a number of ways. One example is when an internet interface could be used to onboard borrowers and lenders. The algorithms could automate the assignment of credit scores, and algorithms could automate the selection and diversification of loan investments by the lenders.
-
-The P2P lending platforms prioritize the Small and Mid-size Enterprises (SMEs) and start-ups. These businesses are traditionally served by banks, as well as consumers, to attract capital more quickly.
-
-The post-crisis environment of low interest rates and very low or even negative yields on sovereign bonds has led investors to look for alternative investments with potentially higher yields. Loans facilitated by P2P lending platforms typically offer those higher returns, though they may come with higher risk.
-
-The P2P lending allows individual investors to invest in, or extend P2P loans, a segment previously limited to primarily institutional investors, or to holders of lending licenses. This is what you call risk diversification.
-
-The P2P lending can provide credit to borrowers, especially SMEs, that do not have access to bank loans. This, in effect, increases the total loans provided to the small business sector. The same lending platforms have cost advantages compared to banks. Their overhead costs are low since they leverage technology and data, and have less “brick and mortar” related costs. As a result, they can work with low interest margins.
-
-The P2P lending platforms have provided individual investors with a new asset in the form of un-collateralised debt. Individual investors can spread small sums of money across many loans at a low cost. This is one of the features that can be obtained in the Sparkpoint.
-
-Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
 
 In SparkDeFi, it is allowed to use altcoins and Non-fungible Tokens (NFTs) or cryptocollectibles such as game items, virtual estate, and digital artworks as collateral. The platform enables microlending for the purpose of democratizing finance and promoting financial inclusion. This ensures the client to consistently generate a stream of cash flow through the liquidity savings pool. Read the [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why we're supporting NFTs.
 
@@ -153,3 +137,25 @@ Likewise, the said token is ERC-721 compliant. This outlines that every token bi
 Compared to the regular ERC-20 compliant cryptos, NFTs, with their ERC-721 compliance, could pave the way for acquiring significant assets through tokenization. Moreover, the ERC-721 label allows users to trade in market exchanges.
 
 Just to give NFTs a little background: it all started with the rise of CryptoKitties, a blockchain game developed by Axion Zen on Ethereum. The hype developed a substantial following, and at one point, even reached a skyrocketing $100,000 for a single digital feline collectible item. However, with the recent developments, NFTs have become more than just a feline gaming currency. It has become more diverse. And with the integration of Kakao into the said crypto-token, we could only theorize what could be the future of NFTs. If anything else, the bright history of the NFT is an indication of what it could be, if it is to be further expanded in the near future.
+
+### Decentralized Exchanges
+
+### P2P Lending and Borrowing
+
+By 2022, the global peer-to-peer lending market is estimated to increase by almost 52% per year, reaching the US $460 billion in value. This is according to the 2017 report of Allied Market Research.
+
+One of the advantages of peer-to-peer or “P2P” is that its financing may be obtained from many different investors or lenders ranging from individuals to institutional investors.
+
+The P2P is beneficial because of the low cost in technology. The platform uses such technology in a number of ways. One example is when an internet interface could be used to onboard borrowers and lenders. The algorithms could automate the assignment of credit scores, and algorithms could automate the selection and diversification of loan investments by the lenders.
+
+The P2P lending platforms prioritize the Small and Mid-size Enterprises (SMEs) and start-ups. These businesses are traditionally served by banks, as well as consumers, to attract capital more quickly.
+
+The post-crisis environment of low interest rates and very low or even negative yields on sovereign bonds has led investors to look for alternative investments with potentially higher yields. Loans facilitated by P2P lending platforms typically offer those higher returns, though they may come with higher risk.
+
+The P2P lending allows individual investors to invest in, or extend P2P loans, a segment previously limited to primarily institutional investors, or to holders of lending licenses. This is what you call risk diversification.
+
+The P2P lending can provide credit to borrowers, especially SMEs, that do not have access to bank loans. This, in effect, increases the total loans provided to the small business sector. The same lending platforms have cost advantages compared to banks. Their overhead costs are low since they leverage technology and data, and have less “brick and mortar” related costs. As a result, they can work with low interest margins.
+
+The P2P lending platforms have provided individual investors with a new asset in the form of un-collateralised debt. Individual investors can spread small sums of money across many loans at a low cost. This is one of the features that can be obtained in the Sparkpoint.
+
+Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
