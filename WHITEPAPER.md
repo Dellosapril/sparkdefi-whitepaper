@@ -42,13 +42,13 @@ SparkPoint Decentralized Finance platform.
 
 Coinciding with the change in our world is also the adjustments in our daily needs. One of these is the significant system change in our financial world. Banks have been the money guardians of the people. However, the present situation of 2020 have shown us that it is possible for daily transactions to be simplified. There are now various technologies or instruments that have been developed for people to use in meeting their needs. The functions of banks as middlemen can be enhanced. How? DeFi.
 
-DeFi or Decentralized Finance is the furtherance of banking. Decentralized finance (DeFi) is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world.So far, DeFi's investments have reached 1.5bn USD assets. These assets are called crypto assets because they are in the form of digital tokens.
+### Decentralized Finance
 
-Another definition of Decentralized Finance is that it is a type of futuristic economical management system touted to levy further control to the people, without the need for financial intermediaries. Likewise, it seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the indiscriminate and encompassing usage of those seeking to avail of financial services.
+DeFi or Decentralized Finance is the furtherance of banking. Decentralized finance (DeFi) is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's total locked value (TVL) have reached 1.5bn USD assets. These assets are called crypto assets because they are in the form of digital tokens.
 
-Considered by financial experts as innovative, DeFi likewise seek to further consolidate the financial products and services offered by centralized banking authorities to the people seamlessly.
+Another definition of Decentralized Finance is that it is a type of futuristic economical management system touted to levy further control to the people, without the need for financial intermediaries. Likewise, it seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing usage of those seeking to avail of financial services.
 
-Dubbed as the future of the global economy, here are some of the revolutionary concepts forwarded by DeFi that would, for sure, capitulate the world of finance management into new heights. In this case, the emerging technologies spouted by the advancements of humanity supports the entirety of operations of DeFi.
+Considered by financial experts as innovative, DeFi likewise seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly. Dubbed as the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that would, for sure, capitulate the world of finance management into new heights.
 
 ## SparkDeFi
 
