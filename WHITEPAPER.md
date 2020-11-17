@@ -54,7 +54,7 @@ Considered by financial experts as innovative, DeFi likewise seeks to further co
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. The transactions that it offers are Decentralized Exchange (DEX), Multi-Staking, P2P Lending and Borrowing, and DeFi Assets Protocols Management in a seamless, transparent, secure, inclusive, and interoperable approach.
 
-The SFuel token is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. This SFuel will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFuel holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
+The SFUEL token is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. This SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
 
 ### 1. SparkSwap Decentralized Exchange (DEX)
 
@@ -78,7 +78,7 @@ Liquid staking allows users to access their locked capital still while maintaini
 
 #### B. Pool-Based Staking
 
-In the platform of SparkDeFi, the client is encouraged to participate in the SRK-ETH and SFUEL-ETH liquidity staking pools and earn SRK or SFUEL, a SparkDefi governance token. By participating, the client can stake SRK tokens or SFuel in the regular pool-based staking and collect SRK or SFUEL rewards on a regular basis.
+In the platform of SparkDeFi, the client is encouraged to participate in the SRK-ETH and SFUEL-ETH liquidity staking pools and earn SRK or SFUEL, a SparkDefi governance token. By participating, the client can stake SRK tokens or SFUEL in the regular pool-based staking and collect SRK or SFUEL rewards on a regular basis.
 
 The staking pool includes collaborative work by cryptocurrency holders whose assets were combined in order for them to increase their chances of being rewarded as well as to increase their expected ROI (Return of Investment). That is why the maximization of assets through a consistent group staking is mindedly in need because the more you stake coins on the pool, the more chances that the staking pool will be picked and let your cast get verified.
 
