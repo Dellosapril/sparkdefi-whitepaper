@@ -140,6 +140,8 @@ Just to give NFTs a little background: it all started with the rise of CryptoKit
 
 ### Decentralized Exchanges
 
+Decentralized exchanges (DEX) poised to overtake centralized exchanges (CEX) in the coming years.
+
 ### P2P Lending and Borrowing
 
 By 2022, the global peer-to-peer lending market is estimated to increase by almost 52% per year, reaching the US $460 billion in value. This is according to the 2017 report of Allied Market Research.
