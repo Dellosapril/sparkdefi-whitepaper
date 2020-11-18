@@ -29,9 +29,8 @@ SparkPoint Decentralized Finance platform.
   * 1.2 Microlending
 * SparkDeFi Ecosystem Security and Architecture
   * Regulatory Risk or Compliance
-  * Security
-    * Technical Issues with Smart Contracts
-    * Network Security
+  * Technical Issues with Smart Contracts
+  * Network Security
   * SFUEL Token Economics
   * Governance Structure
 * Moving Forward
