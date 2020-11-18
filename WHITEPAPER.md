@@ -173,6 +173,24 @@ Our team is looking to raise funding this year to be able to focus on the develo
 
 Next is our own DEX, SparkSwap, which will launch in Q1 2021. Then our P2P Lending and Borrowing platform will launch in Q3 2021. Our fourth and final SparkDeFi product is our DeFi Protocols Management platform which has a target testnet launch of Q4 2021 and a mainnet launch in 2022.
 
+One of the biggest main points that we’ve learned in DeFi is the cost and speed of transactions. Because of this, our team has decided to launch SparkDeFi on Binance Smart Chain to take advantage of its speed and lower cost. Our team will also benefit from Binance’s strong support of the developer community. In this regard, we’ve submitted our interest to apply for a slice of their $100M Support Fund.
+
 ### Revenue Model
+
+SRK holders will benefit from the SparkDeFi platform because the SRK token will also be utilized in its staking, swapping, and P2P lending solutions. As early supporters of the SparkDeFi platform, SRK holders will be given priority in the private sale. They are entitled to a quarterly airdrop distribution beginning this Q4 2020. Deflationary token model.
+
+Revenue from transactions fees.
+
 ### SparkPoint Team
+
+* Andy Agnas, CPA - CEO
+* Rico Zuñiga - CTO
+
 ### Official Support Channels
+
+* [Website](https://srk.finance/)
+* [Telegram](https://t.me/SparkDeFi)
+* [Email](defi@sparkpoint.io)
+* [Twitter](https://twitter.com/SparkDeFi)
+* [Facebook](https://www.facebook.com/SparkDeFi)
+* [Instagram](https://www.instagram.com/sparkdefi/)
