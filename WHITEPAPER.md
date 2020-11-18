@@ -27,16 +27,18 @@ SparkPoint Decentralized Finance platform.
 * Solutions
   * 1.1 Innovative P2P Lending
   * 1.2 Microlending
-  * 1.3 SparkDeFi Ecosystem Security and Architecture
-    * a. Technical Issues with Smart Contract
-    * b. Regulatory Risk or Compliance
-    * c. Network Security
-    * d. Governance Structure
-* SFUEL Token Economics
-* Roadmap
-* Revenue Model
-* Team
-* Official Support Channels
+* SparkDeFi Ecosystem Security and Architecture
+  * Regulatory Risk or Compliance
+  * Security
+    * Technical Issues with Smart Contracts
+    * Network Security
+  * SFUEL Token Economics
+  * Governance Structure
+* Moving Forward
+  * Roadmap
+  * Revenue Model
+  * SparkPoint Team
+  * Official Support Channels
 
 ## Introduction
 
