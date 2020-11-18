@@ -166,6 +166,13 @@ Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of t
 ## Moving Forward
 
 ### Roadmap
+
+![SparkDeFi Roadmap](images/sparkdefi-roadmap.png)
+
+Our team is looking to raise funding this year to be able to focus on the development and launch of the SparkDeFi platform in 2021. SparkDefi’s various products will be launched in stages starting with the SFUEL and SRK Liquidity Mining which will launch before the end of this year.
+
+Next is our own DEX, SparkSwap, which will launch in Q1 2021. Then our P2P Lending and Borrowing platform will launch in Q3 2021. Our fourth and final SparkDeFi product is our DeFi Protocols Management platform which has a target testnet launch of Q4 2021 and a mainnet launch in 2022.
+
 ### Revenue Model
 ### SparkPoint Team
 ### Official Support Channels
