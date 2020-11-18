@@ -117,8 +117,6 @@ Applications in crypto currency or block chain technology towards disrupting fin
 
 In addition, the protocol aims to introduce a novel incentive structure that promotes holding the token and providing liquidity on exchanges.
 
-The protocol “Pamp Network” is a price-reactive cryptocurrency. Price-reactivity is an important feature because it creates adequate supply to react to demand spikes as the result of large amounts of liquidity entering or exiting the system. This should lower volatility in the short-term, which allows for the currency to act as a store-of-value in the long term.
-
 ### 5. Decentralized Governance
 
 Governance of SparkDeFi will be delegated to SFUEL holders. DAO members are responsible for the direction of the protocol via systematic voting.
