@@ -45,7 +45,7 @@ Coinciding with the change in our world is also the adjustments in our daily nee
 
 ### Decentralized Finance
 
-DeFi or Decentralized Finance is the furtherance of banking. Decentralized finance (DeFi) is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's total locked value (TVL) have reached 1.5bn USD assets. These assets are called crypto assets because they are in the form of digital tokens.
+DeFi or Decentralized Finance is the furtherance of banking. Decentralized finance (DeFi) is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's total locked value (TVL) have reached [12bn USD assets](https://blockchain.news/news/defi-12-billion-total-value-locked-ethereum-transacts-2x-bitcoin-daily). These assets are called crypto assets because they are in the form of digital tokens.
 
 Another definition of Decentralized Finance is that it is a type of futuristic economical management system touted to levy further control to the people, without the need for financial intermediaries. Likewise, it seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing usage of those seeking to avail of financial services.
 
