@@ -33,11 +33,11 @@ SparkPoint Decentralized Finance platform.
   * Network Security
   * SFUEL Token Economics
   * Governance Structure
-* Moving Forward
-  * Roadmap
-  * Revenue Model
-  * SparkPoint Team
-  * Official Support Channels
+* [Moving Forward](#moving-forward)
+  * [Roadmap](#roadmap)
+  * [Revenue Model](#revenue-model)
+  * [SparkPoint Team](#sparkpoint-team)
+  * [Official Support Channels](#official-support-channels)
 
 ## Introduction
 
@@ -162,3 +162,10 @@ The P2P lending can provide credit to borrowers, especially SMEs, that do not ha
 The P2P lending platforms have provided individual investors with a new asset in the form of un-collateralised debt. Individual investors can spread small sums of money across many loans at a low cost. This is one of the features that can be obtained in the Sparkpoint.
 
 Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
+
+## Moving Forward
+
+### Roadmap
+### Revenue Model
+### SparkPoint Team
+### Official Support Channels
